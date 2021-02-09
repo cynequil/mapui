@@ -1,17 +1,17 @@
-Map Application Using OSM Map
+# Map Application Using OSM Map
 
-OSM Map Provider: Leaflet
+## OSM Map Provider: Leaflet
 
-Api Used: https://photon.komoot.io/api/
+## Api Used: https://photon.komoot.io/api/
 
-Project Structure:
+### Project Structure:
 
 src > actions > components > reducers
 App.css
 App.js
 index.js
 
-Working of the App:
+### Working of the App:
 
 1. Map provided with three maps United States, India, and United Kingdom as default.
 2. On user's map selction the app moves the marker to the country selected and displays
@@ -19,7 +19,7 @@ Working of the App:
 3. The application's map region and regoin info is handled using redux.
 4. Ant Design is used to create the app components
 
-Way to test the api:
+### Way to test the api:
 
 Api: https://photon.komoot.io/api/
 
