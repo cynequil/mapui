@@ -27,3 +27,5 @@ Api: https://photon.komoot.io/api/
 2. placename is the name of the place for which data is to be fetched
 3. The api can be tested using Postman or simply typing in the browser along with placename as the parameter
    will return OSM data supporting the place
+
+#### Link : https://github.com/cynequil/mapui
