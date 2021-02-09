@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-icons {
+  color: white !important;
+  font-size: 25px;
+  padding: 10px;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.switch {
+  margin: 5px;
+}
+.sidenav {
+  height: 100vh;
+}
+.leaf-map {
+  height: 100vh;
+  width: 100%;
+}
+.input {
+  position: absolute;
+  top: 15%;
+  right: 3%;
+  z-index: 10000000000;
+}
+.select {
+  width: 200px;
+}
+.option {
+  z-index: 10000000000;
+}
+.info {
+  position: absolute;
+  top: 38%;
+  right: 3%;
+  width: 265px;
+  z-index: 1000000;
+}
+.foot {
+  text-align: center;
+}
